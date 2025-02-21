@@ -16,5 +16,5 @@ pieces as <b>Virtualization, Concurrency, and Persistence</b>
 
 
 ## Author
-Rohan Deshpande, and also thanks to my friend [Alex Miralles](https://github.com/AlexMC1997) for being my
+Rohan, and also thanks to my friend [Alex Miralles](https://github.com/AlexMC1997) for being my
 mentor in this course and projects.
